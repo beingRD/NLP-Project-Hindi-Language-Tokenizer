@@ -5,6 +5,7 @@
 
 import codecs
 import re
+
 class Tokenizer():
 	'''class for tokenizer'''
 
